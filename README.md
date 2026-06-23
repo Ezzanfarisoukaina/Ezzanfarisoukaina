@@ -51,3 +51,6 @@
 ## 📫 Connect with Me
 
 📧 Email: soukainaezzanfari@gmail.com
+
+                                    💡 "Always learning, always building, and always improving."
+                                     
