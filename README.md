@@ -12,6 +12,9 @@
 
 - React.js
 - Node.js
+- Next.js
+- Vue.js
+- Angular
 - Express.js
 - JavaScript
 - HTML5
