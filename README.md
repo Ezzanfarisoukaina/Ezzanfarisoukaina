@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Soukaina Ezzanfari
 
-💻 Master's student in Computer Engineering & Data Analytics.
+💻 Master's student in Computer Engineering & Data Analytics (M2).
 
 🚀 Passionate about Full-Stack Development, Data Analysis, and Software Engineering.
 
